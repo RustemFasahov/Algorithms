@@ -24,5 +24,6 @@ public class Main {
         float realTime3 = System.nanoTime();
         float deltaTime3 = (realTime3 - lastTime3) / 100000000;
         System.out.println(deltaTime3);
+        
     }
 }
